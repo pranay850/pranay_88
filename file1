@@ -35,3 +35,4 @@
 </body>
 </html>
 git remote add origin https://<token>@github.com/<username>/<repository name>.git
+sudo nano /etc/default/jenkins
